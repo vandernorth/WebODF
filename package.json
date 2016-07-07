@@ -26,7 +26,6 @@
     "url" : "git://github.com/vandernorth/WebODF.git"
   },
   "dependencies"   : {
-    "karma-webodf": "*",
     "xmldom": "*"
   }
 }
